@@ -1,6 +1,6 @@
 - 👋 Hola, soy Ezequiel! 
-- 👀 Estoy interesado en aprender continuamente
-- 🌱 Actualmente soy estudiante de Ingeniería en Sistemas de Información 
+- 👀 Estoy interesado por aprender continuamente
+- 🌱 Actualmente soy estudiante de Ingeniería en Sistemas de Información en la UTN
 
 <!---
 liondrago/liondrago is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
